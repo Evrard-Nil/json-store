@@ -12,10 +12,10 @@
       0,0,0,0,0,0,0,0,0,0,0
     ],
     "starsIndex": [
-      25, 31
+      23, 31
     ],
     "cursorIndex": 71,
-    "cursorDir": "SOUTH"
+    "cursorDir": "NORTH"
   },
   "controls": [
     "forward",

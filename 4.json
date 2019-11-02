@@ -16,6 +16,6 @@
     "cursorIndex": 71,
     "cursorDir": "EAST"
   },
-  "controls": ["forward", "left", "right", "f1","c2", "p1"],
+  "controls": ["forward", "left", "right", "f1"],
   "functions": [5]
 }

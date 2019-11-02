@@ -1,0 +1,17 @@
+{
+  "map": {
+    "numberOfColumn": 6,
+    "cases": [
+      0, 0, 0, 0, 0, 0,
+      0, 2, 1, 2, 1, 0,
+      0, 1, 0, 1, 0, 0,
+      0, 2, 1, 2, 0, 0,
+      0, 0, 0, 0, 0, 0
+    ],
+    "starsIndex": [9, 10, 19, 21],
+    "cursorIndex": 7,
+    "cursorDir": "EAST"
+  },
+  "controls": ["forward", "left", "right", "f1","c2", "p1"],
+  "functions": [4]
+}

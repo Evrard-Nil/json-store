@@ -1,15 +1,23 @@
  {
-    "map": {
-      "numberOfColumn": 5,
-      "cases": [
-        0, 0, 0, 0, 0,
-        0, 1, 1, 1, 0,
-        0, 0, 0, 1, 0
-        ],
-      "starsIndex": [13],
-      "cursorIndex": 6,
-      "cursorDir": "EAST"
-    },
-    "controls": ["forward", "left", "right"],
-    "functions": [3]
-  }
+  "map": {
+    "numberOfColumn": 5,
+    "cases": [
+      0,0,0,0,0,
+      0,1,1,1,0,
+      0,0,0,0,0
+    ],
+    "starsIndex": [
+      8
+    ],
+    "cursorIndex": 6,
+    "cursorDir": "EAST"
+  },
+  "controls": [
+    "forward",
+    "left",
+    "right"
+  ],
+  "functions": [
+    2
+  ]
+}

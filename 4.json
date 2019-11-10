@@ -17,5 +17,6 @@
     "cursorDir": "EAST"
   },
   "controls": ["forward", "left", "right", "f1"],
-  "functions": [5]
+  "functions": [5],
+  "difficulty": 1
 }

@@ -1,34 +1,18 @@
 {
   "map": {
-    "numberOfColumn": 11,
+    "numberOfColumn": 8,
     "cases": [
-      0,0,0,0,0,0,0,0,0,0,0,
-      0,0,0,0,0,2,0,0,0,0,0,
-      0,0,0,0,0,1,0,0,0,0,0,
-      0,0,0,0,0,1,0,0,0,0,0,
-      0,0,0,0,0,1,0,0,0,0,0,
-      0,2,1,1,1,3,1,1,1,2,0,
-      0,0,0,0,0,0,0,0,0,0,0
+      0, 0, 0, 0, 0, 0, 0, 0,
+      0, 3, 1, 1, 1, 1, 3, 0,
+      0, 1, 0, 0, 0, 0, 1, 0,
+      0, 3, 1, 1, 0, 1, 3, 0,
+      0, 0, 0, 0, 0, 0, 0, 0
     ],
-    "starsIndex": [
-      56, 64
-    ],
-    "cursorIndex": 16,
-    "cursorDir": "SOUTH"
+    "starsIndex": [29],
+    "cursorIndex": 27,
+    "cursorDir": "WEST"
   },
-  "controls": [
-    "forward",
-    "left",
-    "right",
-    "f1",
-    "f2",
-    "c1",
-    "c2",
-    "c3",
-    "p1"
-  ],
-  "functions": [
-    4,3
-  ],
-  "difficulty": 2
+  "controls": ["forward", "left", "right", "f1","c1","c2", "c3"],
+  "functions": [3],
+  "difficulty": 1
 }

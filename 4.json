@@ -1,22 +1,24 @@
-{
+ {
   "map": {
-    "numberOfColumn": 10,
+    "numberOfColumn": 8,
     "cases": [
-      0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-      0, 0, 0, 0, 0, 0, 0, 1, 1, 0,
-      0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
-      0, 0, 0, 0, 0, 1, 1, 0, 0, 0,
-      0, 0, 0, 0, 1, 1, 0, 0, 0, 0,
-      0, 0, 0, 1, 1, 0, 0, 0, 0, 0,
-      0, 0, 1, 1, 0, 0, 0, 0, 0, 0,
-      0, 1, 1, 0, 0, 0, 0, 0, 0, 0,
-      0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      0,0,0,0,0,0,0,0,
+      0,2,3,1,2,3,1,0,
+      0,0,0,0,0,0,0,0
     ],
-    "starsIndex": [18],
-    "cursorIndex": 71,
+    "starsIndex": [
+      14
+    ],
+    "cursorIndex": 9,
     "cursorDir": "EAST"
   },
-  "controls": ["forward", "left", "right", "f1"],
-  "functions": [5],
+  "controls": [
+    "forward",
+    "left",
+    "right"
+  ],
+  "functions": [
+    5
+  ],
   "difficulty": 1
 }

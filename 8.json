@@ -14,8 +14,8 @@
       0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ],
     "starsIndex": [11, 18, 81, 88],
-    "cursorIndex": 48,
-    "cursorDir": "EAST"
+    "cursorIndex": 68,
+    "cursorDir": "NORTH"
   },
   "controls": ["forward", "left", "right", "f1", "c1", "c2", "c3"],
   "functions": [3],

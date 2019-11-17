@@ -24,5 +24,6 @@
   },
   "controls": ["forward", "left", "right", "f1","f2","f3","f4","f5", "c1", "c2", "c3", "p1", "p2", "p3"],
   "functions": [6, 6, 6, 6, 6],
+  "difficulty": 3,
   "LASTLEVEL": true
 }

@@ -19,6 +19,7 @@
     "cursorIndex": 8,
     "cursorDir": "SOUTH"
   },
-  "controls": ["forward", "left", "right", "f1", "c1", "c2"],
-  "functions": [5]
+  "controls": ["forward", "left", "right", "f1", "c1", "c2", "c3"],
+  "functions": [5],
+  "difficulty": 1
 }

@@ -22,5 +22,6 @@
   "controls": ["forward", "left", "right", "f1", "c1", "c2", "c3", "p1", "p2", "p3"],
   "functions": [
     5
-  ]
+  ],
+  "difficulty": 2
 }

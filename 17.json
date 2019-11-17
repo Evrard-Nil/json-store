@@ -23,5 +23,6 @@
       "cursorDir": "NORTH"
     },
     "controls": ["forward", "left", "right", "f1", "c1", "c2", "c3"],
-    "functions": [10]
+    "functions": [10],
+  "difficulty": 2
   }

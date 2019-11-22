@@ -27,7 +27,7 @@
        162, 163, 164, 165,166, 167
       ],
     "cursorIndex": 167,
-    "cursorDir": "NORTH"
+    "cursorDir": "WEST"
   },
   "controls": ["forward", "left", "right", "f1","f2", "c1", "c2", "c3"],
   "functions": [5, 5],

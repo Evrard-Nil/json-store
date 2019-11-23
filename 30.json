@@ -1,6 +1,6 @@
 {
   "map": {
-    "numberOfColumn": 9,
+    "numberOfColumn": 8,
     "cases": [
       0, 0, 0, 0, 0, 0, 0, 0,
       0, 2, 2, 2, 2, 2, 1, 0,

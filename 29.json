@@ -31,5 +31,5 @@
   },
   "controls": ["forward", "left", "right", "f1","f2", "c1", "c2", "c3"],
   "functions": [5, 5],
-  "difficulty": 3
+  "difficulty": 4
 }
